@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1> 我是修改过的项目255 </h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
